@@ -1,4 +1,4 @@
-package lab4;
+package lab3;
 
 /** a binary search tree class for Lab 3, part 2: Recursion on Trees*/
 public class BST {

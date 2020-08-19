@@ -1,4 +1,4 @@
-package lab4;
+package lab3;
 import java.util.ArrayList;
 
 /** Lab 3, Part 1: Practice problems for developing recursive methods */
